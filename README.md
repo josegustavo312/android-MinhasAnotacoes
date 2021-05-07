@@ -1,28 +1,28 @@
-## Minhas Anotações - Mobile
+## Minhas AnotaÃ§Ãµes - Mobile
 
-###  :computer: Tela
+###  :desktop_computer: Tela
 
 <div align="center">
-  <img alt="Tela" title="#Tela" width="50%" height="auto" src="./README/tela.png" />
+  <img alt="Tela" title="#Tela" width="40%" height="auto" src="./README/tela.png" />
 </div>
 
 ----------
 
 ### :hammer_and_wrench: Ferramentas
-As seguintes tecnologias foram utilizadas na construção do projeto:
+As seguintes tecnologias foram utilizadas na construÃ§Ã£o do projeto:
 - Java;
 - XML;
 - Android Studio.
 
 ----------
 
-###  :gear: Função
-- [x] Aplicativo para anotação.
+###  :gear: FunÃ§Ã£o
+- [x] Aplicativo para anotaÃ§Ã£o.
 
 ----------
 
 ###  :eyeglasses: Autor
-José Gustavo da Silva.
+JosÃ© Gustavo da Silva.
 [
 **Linkedin**
 ](https://www.linkedin.com/in/jose-gustavo312/)
